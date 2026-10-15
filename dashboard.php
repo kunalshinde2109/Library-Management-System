@@ -11,7 +11,7 @@ require_login();
 $username = $_SESSION["username"];
 $role = $_SESSION["role"];
 
-$profile_photo = "images/profile.jpg";
+$profile_photo = "images/profile.jpeg";
 
 /* =========================
    GET CURRENT USER
